@@ -15,7 +15,7 @@ Project reports are to be submitted as a pull request to the `toc/project-report
 1. **Assignment & Scheduling:** Check the [Schedule](./SCHEDULE.md) to see upcoming due dates.
    * TOC Chair assigns presentation slots during Wednesday's public meetings. 
    * Each project is assigned a TOC liaison for coordination. 
-   * TOC sends calendar invite to project maintainers using [Email Template](../.github/ISSUE_TEMPLATE/toc-review-email-template.md). 
+   * TOC sends calendar invite to project maintainers using [Email Template](./toc-review-email-template.md). 
 
 2. **Preparation:** The Project maintainers create a report using the [Presentation template](./YYYY-HX-[PROJECT-NAME].md).
 
@@ -40,3 +40,11 @@ file as
    * Remove the instructional text.
    * Open a PR against the `finos/technical-oversight-committee` repository.
 
+## Project Scope
+This review process applies to projects in the following lifecycle stages, or projects that are transitioning into or out of these stages:
+
+- **Incubating**
+- **Graduated**
+
+
+*Note: Projects in **Labs** or **Archived** states are not required to participate in the semi-annual review.*
