@@ -2,7 +2,7 @@
 name: "Project/SIG Engagement Request"
 about: To request engagement from the TOC
 title: TOC Engagement Request
-labels: "due diligence"
+labels: "liaison"
 ---
 
 If you would like to request assistance from the TOC for your project or SIG, please fill out as much detail as possible below.
@@ -11,17 +11,22 @@ Please note, it is expected that your project/SIG will be able to provide a name
 
 ## Project Information
 
-- [ ] Project/SIG Repository URL: <e.g. https://github.com/finos/architecture-as-code>
-- [ ] Have you engaged with the TOC previously and if so who with: <YES/NO - Names of previous TOC Contacts>
-- [ ] Name / GitHub handle of contacts:
+- Project/SIG Repository URL: <e.g. https://github.com/finos/architecture-as-code>
+- Have you engaged with the TOC previously? If so, who with?
+- Name / GitHub handle of project contacts for this request:
   - Contact 1
   - Contact 2
 
 ### Problem or gap you're hoping to address
-- [ ] Please provide details of the problem you would like help with:
+
+Please give as much detail as possible to help us prepare.
 
 ### Ideas for what help you'd like
-If you already have ideas for what help you need, please tell us
+
+If you already have ideas for what help you need, please tell us.
 
 ## Next Steps
-Once you have submitted your request, the TOC Chair will review your request and raise it at the next TOC meeting, following which a member of the TOC will reach out to you to let you know if we're able to help and what the next steps will be. As always, you are welcome to attend the public meeting to represent your request live on the call.
+
+Once you have submitted your request, the TOC Chair will review your request and raise it at the next TOC meeting, following which a member of the TOC will reach out to you to let you know if we're able to help and what the next steps will be. 
+
+We recommend that you join the next TOC meeting to represent this request and answer any questions that may arise.
