@@ -6,7 +6,6 @@
 | H1 | Jan–Jun | Feb-Apr |
 | H2 | Jul–Dec | Aug–Oct |
 
-
 ## 2026 Schedule
 
 ### H1 2026
