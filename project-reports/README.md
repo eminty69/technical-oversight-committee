@@ -46,5 +46,4 @@ This review process applies to projects in the following lifecycle stages, or pr
 - **Incubating**
 - **Graduated**
 
-
 *Note: Projects in **Labs** or **Archived** states are not required to participate in the semi-annual review.*
