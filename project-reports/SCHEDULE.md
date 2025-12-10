@@ -19,8 +19,6 @@
 |---------|----------------|----------|--------|-------|
 | Project A | [date] | [date] | Scheduled | Review Summary |
 
-
-
 ### Legend
 - Scheduled / On Track
 - Due Soon / Pending
