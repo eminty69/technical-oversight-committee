@@ -29,9 +29,4 @@
 - Overdue
 - Completed & Archived
 
-
-## Escalation Policy (If Project Fails to Present)
-TODO
-
-
 > **TOC Chair/Vice Chair will update this table after each presentation or schedule confirmation.**
