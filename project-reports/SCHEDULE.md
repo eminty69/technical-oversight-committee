@@ -14,7 +14,6 @@
 | Project A | [date] | [date] | Scheduled | Review Summary |
 | Project B | [date] | [date] | Due Soon | Review Summary |
 
-
 ### H2 2026
 | Project Name | Last Presented | Next Due | Status | Notes |
 |---------|----------------|----------|--------|-------|
