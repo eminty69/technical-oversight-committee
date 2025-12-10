@@ -36,6 +36,5 @@ How can TOC help you achieve your upcoming goals?
 - Technical guidance
 - Lifecycle transition considerations
 
-
 # Additional Information
 - Specific to project that would be useful for TOC
